@@ -1,0 +1,4 @@
+## .gitignore file for LLAIR-scaffold
+
+## ignore folder fetched through gclient
+LLAIR
